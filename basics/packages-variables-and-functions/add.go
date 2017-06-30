@@ -1,4 +1,4 @@
-package packages_variables_functions
+package packages_variables_and_functions
 
 import "fmt"
 
